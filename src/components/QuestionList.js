@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import QuestionItem from "./QuestionItem";
+// import { data } from "../mocks/data";
 
 function QuestionList() {
   const [questions, setQuestions] = useState([]);

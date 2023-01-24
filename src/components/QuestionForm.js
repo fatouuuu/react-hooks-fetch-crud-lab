@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+// import { data } from "../mocks/data";
 
 function QuestionForm(props) {
   const [formData, setFormData] = useState({
